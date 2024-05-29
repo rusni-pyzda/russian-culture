@@ -34,7 +34,7 @@ export default function Home(): JSX.Element {
               <h2 className="text--center">This is what russian culture is</h2>
               <p>
               Perpetual genocide and methodical erasure of history.
-              This is what russian culture did to Factor Druk, one of the largest printing houses in Europe:
+              This is what russian culture did to <Link href="https://www.factor-druk.eu/">Factor Druk</Link>, one of the largest printing houses in Europe:
               </p>
               <img src="/img/image1.jpg" />
               <Link href="https://publishingperspectives.com/2024/05/russian-attacks-hit-ukraines-factor-druk-printing-house/">Article</Link>
